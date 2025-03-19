@@ -20,7 +20,7 @@ O **DevHub** é uma rede social voltada para desenvolvedores, permitindo intera�
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Vinicius-Oliveira13/devhub.git
+   git clone https://github.com/Vinicius-Oliveira13/DevHub.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
